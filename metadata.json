@@ -1,0 +1,7 @@
+{
+  "name": "V9-Kanpo (Many) Image Data Extractor",
+  "description": "An application for manually entering structured data from images of the Japanese Official Gazette (Kanpo).",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
